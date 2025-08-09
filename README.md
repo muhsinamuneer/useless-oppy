@@ -5,10 +5,10 @@
 <img width="1366" height="768" alt="Screenshot from 2025-08-09 16-39-01" src="https://github.com/user-attachments/assets/623a7bae-8028-4ce9-8d9e-f021ec1bd523" />
 
 # Basic Details  
-**Team Name:** The Reverse Engineers  
+**Team Name:** Bakers 
 
 **Team Members**  
-- **Team Lead:**muhsina k
+- **Team Lead:** muhsina k
 - **Member 2:** ayisha sherin  
 ---
 
