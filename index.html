@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Oppy the Opposite Character</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>🤪 Oppy the Opposite Character</h1>
+
+    <div class="character-box">
+      <img id="oppy" src="/images/tom.gif" alt="Oppy">
+      <div id="thought-bubble">💭 Hmm...</div>
+    </div>
+
+    <div class="button-box">
+      <button onclick="sendCommand('jump')">Jump</button>
+      <button onclick="sendCommand('smile')">Smile</button>
+      <button onclick="sendCommand('sit')">Sit</button>
+      <button onclick="sendCommand('wave')">Wave</button>
+      <button onclick="sendCommand('sleep')">Sleep</button>
+      <button onclick="sendCommand('dance')">Dance</button>
+      <button onclick="sendCommand('say hello')">Say Hello</button>
+      <button onclick="sendCommand('walk')">Walk</button>
+    </div>
+
+    <audio id="sound"></audio>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
